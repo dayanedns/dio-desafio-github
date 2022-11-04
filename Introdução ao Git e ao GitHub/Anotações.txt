@@ -1,0 +1,8 @@
+Markdown gera html de forma humanizada
+Typorta editor markdown
+
+Git init = cria o repositorio do git
+Git add = adiciona e edita
+commit = leva as alterações para o servidor
+git status = visualiza o status do repositorio
+git config = configuações do git
