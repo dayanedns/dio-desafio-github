@@ -1,8 +1,10 @@
-Markdown gera html de forma humanizada
-Typorta editor markdown
+Markdown gera html de forma mais facil
+Typora editor de Markdown
 
+Comandos Git
 Git init = cria o repositorio do git
-Git add = adiciona e edita
-commit = leva as alterações para o servidor
-git status = visualiza o status do repositorio
-git config = configuações do git
+Git add = adiciona as informações para o "stage"
+Git commit = leva as alterações para o servidor
+Git push origin main = salva as alterações comittadas para o servidor
+Git status = visualiza o status do repositorio
+Git config = configuações do git
